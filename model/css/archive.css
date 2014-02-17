@@ -1,0 +1,26 @@
+/*
+	柠檬大学内容页样式表
+	BY:xiaocong
+	Email:xiepinxi@gmail.com
+*/
+.layout{ width:1000px; margin-left:auto; margin-right:auto;}
+.of_h{ overflow:hidden}
+.m_b_10{ margin-bottom:10px;}
+.m_b_20{ margin-bottom:20px;}
+#zhengwen{width:680px; overflow:hidden; zoom:1; float:left; padding-right:20px;}
+#right{width:300px; overflow:hidden; zoom:1; float:left;}
+
+
+
+/*内容区排版*/
+	.tit{}
+
+.keywords{ line-height:24px; font-size:12px;}
+.links{ line-height:28px; font-size:14px;}
+.links a{margin-left:10px;}
+.description{ line-height:24px; font-size:12px;}
+.content p{ margin-bottom:15px; line-height:24px; font-size:12px;}
+/*右侧排版*/
+.jc_tit{}
+.amazone_book{}
+.amazone_book h2{ font-size:16px; line-height:32px; padding:0; margin:0; font-weight:400;}
